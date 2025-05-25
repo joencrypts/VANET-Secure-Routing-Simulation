@@ -11,4 +11,5 @@ This project simulates a secure routing protocol for Vehicular Ad Hoc Networks (
 
 ## Run
 pip install -r requirements.txt
-python src/main.py
+python -m src.main
+
