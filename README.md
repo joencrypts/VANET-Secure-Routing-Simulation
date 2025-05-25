@@ -10,3 +10,5 @@ This project simulates a secure routing protocol for Vehicular Ad Hoc Networks (
 - Basic collision detection
 
 ## Run
+pip install -r requirements.txt
+python src/main.py
